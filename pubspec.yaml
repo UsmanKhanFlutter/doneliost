@@ -43,7 +43,7 @@ dependencies:
   provider: ^6.1.2
   intl:
   tutorial_coach_mark: ^1.2.12
-  flutter_launcher_icons: ^0.14.1
+  flutter_launcher_icons: ^0.13.1
   flutter_native_splash: ^2.4.4
   change_app_package_name: ^1.4.0
 
